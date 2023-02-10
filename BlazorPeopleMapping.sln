@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorPeopleMapping", "BlazorPeopleMapping\BlazorPeopleMapping.csproj", "{C70DA124-30AC-4AE7-89A0-73F25F72D989}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C70DA124-30AC-4AE7-89A0-73F25F72D989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C70DA124-30AC-4AE7-89A0-73F25F72D989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C70DA124-30AC-4AE7-89A0-73F25F72D989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C70DA124-30AC-4AE7-89A0-73F25F72D989}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64737C72-ECF1-4481-80F2-F5E67F440A28}
+	EndGlobalSection
+EndGlobal
